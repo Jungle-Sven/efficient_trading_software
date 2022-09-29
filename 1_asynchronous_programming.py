@@ -1,6 +1,8 @@
 import asyncio
 
 class DataInput:
+    #this is an example of a data input class
+    #it can connect to websockets, rest api, etc and recieve some data
     def __init__(self):
         pass
 
@@ -17,6 +19,9 @@ class DataInput:
 
 
 class DataProcessing:
+    #this is an example of a data processing class
+    #it can process raw data from exchanges like tick data or OHLCV
+    #save the data, analyze it, produce signals, etc
     def __init__(self):
         pass
 
