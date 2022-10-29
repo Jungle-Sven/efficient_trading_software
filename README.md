@@ -18,4 +18,4 @@ More to come…
 
 My contacts:
 
-[Twitter ](https://twitter.com/jungle_sven) [Medium](https://medium.com/@junglesven) [Hashnode](https://junglesven.hashnode.dev/) [Dev.to](https://dev.to/jungle_sven)
+[Twitter ](https://twitter.com/jungle_sven) [Medium](https://medium.com/@junglesven) [Hashnode](https://junglesven.hashnode.dev/) [Dev.to](https://dev.to/jungle_sven) [LinkedIn](https://www.linkedin.com/in/andrii-zakharkin/)
